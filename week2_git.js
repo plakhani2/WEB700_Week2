@@ -18,3 +18,5 @@ var a = [1,2,3,4]
 console.log(typeof(a))
 console.log(a[0])
 console.log(a[10])
+
+
